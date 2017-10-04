@@ -465,15 +465,15 @@
         <string name="coastline_cam_s6">(СНАРУЖИ) Развалины</string>
         <string name="coastline_cam_s7">(СНАРУЖИ) Развалины</string>
 
-    <string name="themepark">Theme park</string>
-        <string name="themepark_cam_s1">(1F) Gallery</string>
-        <string name="themepark_cam_s2">(2F) Haunted Stairs</string>
-        <string name="themepark_cam_s3">(1F) Joint Corridor</string>
-        <string name="themepark_cam_s4">(2F) Upper Arcarde</string>
-        <string name="themepark_cam_s5">(2F) Rail Platform</string>
-        <string name="themepark_cam_s6">(EXT) Teacups</string>
-        <string name="themepark_cam_s7">(EXT) Service Entrance</string>
-        <string name="themepark_cam_s8">(EXT) Guest Info</string>
+    <string name="themepark">Луна-Парк</string>
+        <string name="themepark_cam_s1">(1Э) Галерея</string>
+        <string name="themepark_cam_s2">(2Э) Дом ужасов - Лестница</string>
+        <string name="themepark_cam_s3">(1Э) Общий коридор</string>
+        <string name="themepark_cam_s4">(2Э) Автоматы</string>
+        <string name="themepark_cam_s5">(2Э) Платформа</string>
+        <string name="themepark_cam_s6">(СНАРУЖИ) Карусель</string>
+        <string name="themepark_cam_s7">(СНАРУЖИ) Служебный вход</string>
+        <string name="themepark_cam_s8">(СНАРУЖИ) Объявления</string>
 
     <string name="destroyPhrase">%d</string>
     <string name="cameraPhrase">%d cameras</string>
